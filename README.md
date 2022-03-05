@@ -1,5 +1,5 @@
 # animate.css-controller
-Easily add animations in your project through animate.css by using this animate.css controller I've made. Once you add the files, simply add two classes and an ID to a div to animate a section! 
+Easily add animations in your project through animate.css by using this animate.js controller I've made. Once you add the files, simply add two classes and an ID to a div to animate a section! 
 
 * animate.css - https://animate.style/
 * Version - 4.1.1
