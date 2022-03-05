@@ -5,7 +5,6 @@ Easily add animations in your project through animate.css by using this animate.
 * Version - 4.1.1
 * Licensed under the MIT license - http://opensource.org/licenses/MIT
 * Copyright (c) 2020 Animate.css
-*
 * animate.css controller built by Chris Rainbow - https://github.com/chrisrainbow. Version 1.1. 
 
 ## INSTRUCTIONS
