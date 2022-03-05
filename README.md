@@ -30,11 +30,7 @@ This javaScript array contains the most common animations in animate.css, but no
 The script works by scanning the page for divs that have a "animateSection" class. The script further takes in the animation style and the id of that block, and then renders that animation when the user comes into view of the component.
 
 animate.css targets the ID of the div block, so the ID of that element needs to be defined.
-
-
-## CDN / FILES
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"> or use the animate.css and animate.js in your project.
-
+	
 
 ## CUSTOMIZATION
 
